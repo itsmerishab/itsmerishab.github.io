@@ -17,7 +17,8 @@ h2{
           text-align: center;
 }
 img{
-          width: 20rem;
+          width: 100vw;
+          background-image: url(img.png);
 }
 ::selection{
           background-color: wheat;
